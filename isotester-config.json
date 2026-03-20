@@ -1,0 +1,15 @@
+{
+    "CONTROLLER_ID": "CMN",
+    "RECV_FORMAT": "H04(01,04,AS)",
+    "HOST": "127.0.0.1",
+    "PORT": "5000",
+    "RESP_TIMEOUT_MS": 10000,
+    "USE_FIXED_HEADER_LEN": false,
+    "FIXED_HEADER_STRING": "",
+    "USE_TLS": false,
+    "FIXED_HEADER_LEN": "0",
+    "CA_FILE": "",
+    "CERT_FILE": "",
+    "KEY_FILE": "",
+    "PASSPHRASE": ""
+}
